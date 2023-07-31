@@ -1,4 +1,4 @@
-# Fetch_Match_AI Prompt_Engineering Demo
+# FetchMatchAI Prompt_Engineering Demo
 
 This repository contains detailed information on the FetMatchAI Streamlit Web App built to:
 - Use any keyword to search for relevant offers
